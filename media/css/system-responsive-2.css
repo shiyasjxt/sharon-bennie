@@ -1170,14 +1170,7 @@ label em,
 		width: 100%;
 		clear: both;
 		/*float: none;*/
-	}.jd-btm-description
-{
-	/* back to results / options list */
-	float: left;
-	width: 35%;
-	clear: both;
-	/*float: none;*/
-}
+	}
 	.breadcrumbs, 
 	#tnt_pagination a	{
 		display: none;
